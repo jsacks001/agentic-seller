@@ -1,0 +1,25 @@
+# API keys and local config — never commit
+.env
+*.env
+.env.local
+
+# MCP config with real API keys — use mcp.json.template instead
+.claude/mcp.json
+
+# Account research and emails — private by default
+# Sellers can remove these lines if they want to commit their own work
+accounts/*/research/*
+accounts/*/emails/*
+# But keep the _TEMPLATE folder structure intact so it clones correctly
+!accounts/_TEMPLATE/research/.gitkeep
+!accounts/_TEMPLATE/emails/.gitkeep
+
+# Internal build planning — not for end users
+planning/
+
+# Claude Code internal folders
+.claude/plans/
+
+# OS files
+.DS_Store
+Thumbs.db

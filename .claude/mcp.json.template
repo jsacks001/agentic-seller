@@ -1,0 +1,78 @@
+{
+  "mcpServers": {
+    "brightdata": {
+      "command": "npx",
+      "args": ["-y", "@brightdata/mcp"],
+      "env": {
+        "API_TOKEN": "YOUR_BRIGHTDATA_API_TOKEN_HERE"
+      }
+    }
+  }
+}
+
+// ─────────────────────────────────────────────────
+// INSTRUCTIONS:
+// 1. Copy this file to .claude/mcp.json (already in .gitignore — safe to put keys there)
+// 2. Replace YOUR_BRIGHTDATA_API_TOKEN_HERE with your actual Bright Data API token
+// 3. Add more MCPs below the brightdata entry (see mcp-integrations/ for setup guides)
+//
+// OPTIONAL MCPs (uncomment and fill in as needed):
+// ─────────────────────────────────────────────────
+
+// NOTION (pipeline, tasks, contacts):
+// "notion": {
+//   "command": "npx",
+//   "args": ["-y", "@notionhq/notion-mcp-server"],
+//   "env": {
+//     "OPENAPI_MCP_HEADERS": "{\"Authorization\": \"Bearer YOUR_NOTION_TOKEN\", \"Notion-Version\": \"2022-06-28\"}"
+//   }
+// },
+
+// HUBSPOT (CRM sync):
+// "hubspot": {
+//   "command": "npx",
+//   "args": ["-y", "@loki-mcp-universe/hubspot-mcp"],
+//   "env": {
+//     "HUBSPOT_API_KEY": "YOUR_HUBSPOT_API_KEY_HERE"
+//   }
+// },
+
+// SALESFORCE (enterprise CRM):
+// "salesforce": {
+//   "command": "npx",
+//   "args": ["-y", "@loki-mcp-universe/salesforce-mcp"],
+//   "env": {
+//     "SALESFORCE_USERNAME": "YOUR_USERNAME",
+//     "SALESFORCE_PASSWORD": "YOUR_PASSWORD",
+//     "SALESFORCE_TOKEN": "YOUR_SECURITY_TOKEN"
+//   }
+// },
+
+// APOLLO (contact enrichment + sequences):
+// "apollo": {
+//   "command": "npx",
+//   "args": ["-y", "@chainscore/apollo-io-mcp"],
+//   "env": {
+//     "APOLLO_API_KEY": "YOUR_APOLLO_API_KEY_HERE"
+//   }
+// },
+
+// LINKEDIN (profile + company data):
+// "linkedin": {
+//   "command": "npx",
+//   "args": ["-y", "linkedin-mcp-server"],
+//   "env": {
+//     "LINKEDIN_EMAIL": "YOUR_EMAIL",
+//     "LINKEDIN_PASSWORD": "YOUR_PASSWORD"
+//   }
+// },
+
+// GONG (call transcripts):
+// "gong": {
+//   "command": "npx",
+//   "args": ["-y", "@crmchattie/gong-mcp"],
+//   "env": {
+//     "GONG_ACCESS_KEY": "YOUR_GONG_ACCESS_KEY",
+//     "GONG_SECRET_KEY": "YOUR_GONG_SECRET_KEY"
+//   }
+// }

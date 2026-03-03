@@ -12,7 +12,7 @@ This is not a chatbot. It's an **always-on selling system** that knows your comp
 
 ## Who this is for
 
-You are an **AE, BDR, SDR, AM, or founder doing sales**.
+You’re in **sales or revenue—whether that’s as an AE, BDR/SDR, AM/CSM, sales leader, RevOps, or founder doing sales.**.
 
 You spend too much time on things that shouldn't take that long:
 - Researching an account before reaching out

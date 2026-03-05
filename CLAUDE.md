@@ -55,40 +55,26 @@ You can start lite and add Bright Data later (~$10/month, free trial available).
 
 ## SECTION 2 — ABOUT THE SELLER
 
-**Name + Role:** {{SELLER_NAME}}
-**Company:** {{COMPANY_NAME}}
-**Product / Service:** {{PRODUCT_NAME}}
-**Solution Category:** {{SOLUTION_CATEGORY}}
-**Ideal Customer (ICP):** {{ICP_DESCRIPTION}}
-**AE / Counterpart:** {{AE_NAME}}
-**Top Competitors:** {{TOP_COMPETITORS}}
+**Name + Role:** Josh, AE
+**Company:** Alignd
+**Product / Service:** Alignd
+**Solution Category:** Total Reward & Remuneration Software
+**Ideal Customer (ICP):** Enterprise companies (1000+ employees) in South Africa and Australia. Target titles: Head of Reward, Head of Remuneration, Chief HR Officer, HR Director, Head of People
+**AE / Counterpart:** N/A
+**Top Competitors:** Workday, SAP
+**Known Customers:** HiBob (no published proof points yet)
 
 ---
 
 ## SECTION 3 — SHARED SYSTEMS
 
-**CRM:** {{CRM_SYSTEM}}
+**CRM:** HubSpot
+**Other Tools:** Microsoft Teams (manual — no MCP connected), Bright Data (Full mode — free trial)
+**MCP Integrations Available:** HubSpot (official MCP, public beta — https://developers.hubspot.com/mcp)
 
-### If CRM = Notion
-| Database | ID |
-|----------|----|
-| Pipeline | {{NOTION_PIPELINE_ID}} |
-| Tasks | {{NOTION_TASKS_ID}} |
-| Contacts | {{NOTION_CONTACTS_ID}} |
-
-**Pipeline stages:** Research → Outreach → Engaged → Discovery → Meeting Booked → Qualified → Closed
-
-**Task properties:** Status: `To Do / In Progress / Done / Blocked` | Priority: `🔴 Urgent / 🟠 High / 🟡 Medium / 🟢 Low`
-
-**How to create a task:**
-```
-mcp__notion__notion-create-pages → parent data_source_id: {{NOTION_TASKS_ID}}
-Date format: date:Due Date:start + date:Due Date:is_datetime: 0
-```
-
-### If CRM = Salesforce / HubSpot / Pipedrive
-Use the configured MCP for that system. Log calls, update stages, create follow-up tasks there.
-If no CRM MCP configured: output a formatted CRM update block in the call notes file — seller pastes manually.
+### HubSpot CRM
+Use the HubSpot MCP when connected. Log calls, update stages, create follow-up tasks there.
+If HubSpot MCP not yet configured: output a formatted CRM update block in the call notes file — Josh pastes manually.
 
 ---
 
@@ -191,20 +177,28 @@ knowledge/
 
 ## SECTION 7 — SALES METHODOLOGY
 
-### Qualification Framework: {{QUALIFICATION_FRAMEWORK}}
+### Qualification Framework: Challenger Sale
 
-**Default: MEDDPICC** — swap if you chose a different framework during onboarding.
+**Framework: Challenger** — Teach, Tailor, Take Control.
 
-| Letter | Question to answer |
+| Pillar | Question to answer |
 |--------|-------------------|
-| M — Metrics | What numbers change if they fix this? ROI, time saved, cost reduced? |
-| E — Economic Buyer | Who approves budget? Will they be in the room? |
-| D — Decision Criteria | What will they use to evaluate options? |
-| D — Decision Process | What are the exact steps from here to signed? |
-| P — Paper Process | Procurement, legal, security — what's the timeline? |
-| I — Identified Pain | What specific pain have they articulated, in their words? |
-| C — Champion | Who inside will fight for this? Who wants us to win? |
-| C — Competition | What else are they evaluating or already using? |
+| **Teach** | What commercial insight can we deliver that reframes how they think about reward/remuneration? What don't they know that they should? |
+| **Tailor** | How do we map our message to this specific stakeholder's priorities and value drivers? What resonates for their role? |
+| **Take Control** | Are we assertively guiding the deal process? Are we comfortable creating constructive tension around the status quo? |
+
+**Challenger Qualification Checklist:**
+
+| Element | Question | Status |
+|---------|----------|--------|
+| Commercial Insight | Have we taught them something new about their business? | ⬜ |
+| Reframe | Have we challenged their assumptions about the status quo? | ⬜ |
+| Tailored Message | Is our message mapped to their specific business outcomes? | ⬜ |
+| Constructive Tension | Have we created urgency by exposing cost of inaction? | ⬜ |
+| Economic Buyer | Who approves budget? Will they be in the room? | ⬜ |
+| Decision Process | What are the exact steps from here to signed? | ⬜ |
+| Champion | Who inside will fight for this? Who wants us to win? | ⬜ |
+| Competition | What else are they evaluating or already using? | ⬜ |
 
 **Confidence status:** ✅ Confirmed | ⬜ Unknown | 🎯 Probing | 🚫 Negative signal
 
@@ -215,7 +209,7 @@ knowledge/
 | Why | Question | Status |
 |-----|----------|--------|
 | **Why Anything** | What breaks if they do nothing? Cost of status quo > cost of change? | ⬜ |
-| **Why {{PRODUCT_NAME}}** | Which specific capability matches their specific pain? | ⬜ |
+| **Why Alignd** | Which specific capability matches their specific pain? | ⬜ |
 | **Why Now** | What external event creates urgency? Not our quota — their deadline. | ⬜ |
 
 All 3 must be ✅ before advancing to a qualified opportunity.
@@ -324,7 +318,7 @@ Fill that file with your company's actual customer wins. Format:
 ## SECTION 11 — ACCOUNT INTERACTION PROTOCOLS
 
 **When seller drops discovery notes:**
-1. Extract → map to {{QUALIFICATION_FRAMEWORK}} → identify confirmed vs missing 3 Whys → flag next questions
+1. Extract → map to Challenger → identify confirmed vs missing 3 Whys → flag next questions
 2. Draft follow-up email → update account-brief.md → save as `discovery/YYYY-MM-DD-call-notes.md`
 
 **When seller asks for meeting prep:**
@@ -354,7 +348,7 @@ Fill that file with your company's actual customer wins. Format:
 6. **Never delete old files.** Create new dated versions. History is the asset.
 7. **One value driver per interaction.** Map to Make Money / Save Money / Go Fast / Be Safe before drafting.
 8. **Pain before product.** Never lead with features. Establish pain first, always.
-9. **Establish Why Anything before Why {{PRODUCT_NAME}}.** If they don't have a problem, the solution doesn't matter.
+9. **Establish Why Anything before Why Alignd.** If they don't have a problem, the solution doesn't matter.
 10. **No date = no deal.** For replace/migrate motions: if there's no compelling event, create urgency before advancing.
 
 ---
@@ -364,7 +358,7 @@ Fill that file with your company's actual customer wins. Format:
 *Updated by Claude after every account interaction.*
 
 ```
-## Active Pipeline (updated {{TODAY}})
+## Active Pipeline (updated 2026-03-05)
 
 | Account | Stage | Value Driver | Champion | Qual Score | Top Signal | Next Action |
 |---------|-------|-------------|----------|-----------|-----------|-------------|

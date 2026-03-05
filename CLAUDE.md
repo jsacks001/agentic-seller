@@ -61,8 +61,8 @@ You can start lite and add Bright Data later (~$10/month, free trial available).
 **Solution Category:** Total Reward & Remuneration Software
 **Ideal Customer (ICP):** Enterprise companies (1000+ employees) in South Africa and Australia. Target titles: Head of Reward, Head of Remuneration, Chief HR Officer, HR Director, Head of People
 **AE / Counterpart:** N/A
-**Top Competitors:** Workday, SAP
-**Known Customers:** HiBob (no published proof points yet)
+**Top Competitors:** Workday, SAP, HiBob
+**Known Customers:** RCL FOods, Rainbow (no published proof points yet)
 
 ---
 
@@ -98,7 +98,6 @@ Do NOT re-derive facts from account-briefs — the intel file is the source of t
 Always follow this order. Do not skip steps.
 
 ### Step 1 — Internal Knowledge First
-Check what you already know before going to the web:
 - CRM MCP → existing relationship, open opportunities, past interactions
 - Files in `knowledge/` → competitive intel, persona guides, proof points
 - `accounts/{company}/` → prior research, call notes, meeting briefs

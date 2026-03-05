@@ -17,7 +17,11 @@
 
 | Account | Name | Title | Email | LinkedIn | Source | Date |
 |---------|------|-------|-------|----------|--------|------|
-| — | — | — | — | — | — | — |
+| Unitrans | Phindile Khumalo | Rewards & Benefits Specialist | — | — | Inbound via Neil's LinkedIn post + Dena connection | 2026-03-05 |
+| Unitrans | Zene Olivier | Head: Human Capital Shared Services | — | [LinkedIn](https://www.linkedin.com/in/zen%C3%A9-olivier/) | Web research | 2026-03-05 |
+| Unitrans | Sipho Chonco | Head of Human Resources | — | [LinkedIn](https://www.linkedin.com/in/sipho-chonco-1b310021/) | Web research | 2026-03-05 |
+| Unitrans | Nicole Mey | Digital and IT Executive | — | [LinkedIn](https://www.linkedin.com/in/nicol%C3%A9-mey-0647a81/) | Web research | 2026-03-05 |
+| Unitrans | Edwin Hewitt | CEO | — | — | Web research | 2026-03-05 |
 
 ---
 
@@ -26,7 +30,7 @@
 
 | Account | Who | Route | Notes | Date |
 |---------|-----|-------|-------|------|
-| — | — | — | — | — |
+| Unitrans | Phindile Khumalo | Dena (Alignd) -- ex-colleague | Phindile initiated after Neil's LinkedIn post. Dena is personal friend. Strongest warm path. | 2026-03-05 |
 
 ---
 
@@ -35,7 +39,8 @@
 
 | Account | Event | Date | Notes |
 |---------|-------|------|-------|
-| — | — | — | — |
+| Unitrans | Discovery call (Phindile Khumalo) | 2026-03-06 | Inbound, warm via Dena. Alignd: Josh + Ricky + Dena |
+| Unitrans | KAP Industrial fiscal year end | 2026-06-30 | Budget cycles likely tied to this |
 
 ---
 
@@ -62,4 +67,5 @@
 
 | Date | Account | Intel | Source |
 |------|---------|-------|--------|
-| — | — | — | — |
+| 2026-03-05 | Unitrans | 5,300+ employees, 10 African countries, R5.3B group remuneration spend (FY24), 70% unionised SA workforce. SAP ERP but no modern reward platform. Top Employer 2026 certified. CEO Edwin Hewitt publicly committed to people-first investment. | Web research (multiple sources) |
+| 2026-03-05 | Unitrans | Phindile Khumalo (Rewards & Benefits Specialist) reached out after seeing Neil's LinkedIn post. Ex-colleague of Dena. Warm inbound lead. | Josh (direct) |

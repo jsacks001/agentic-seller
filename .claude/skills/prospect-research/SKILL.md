@@ -170,23 +170,10 @@ Score the account before writing the research file:
 ## Pain Signals (Research-Confirmed)
 1. [Pain] → Source: [URL]
 
-## Sales Opportunity Analysis
-**FITS Score:** /100 | **ICP Tier:** 1/2/3/4
-**Sales Motion Route:** Classic / Sprint / Fast / Unknown
-**Value Driver:** Make Money / Save Money / Go Fast / Be Safe
+## The 3 Whys
 **Why Anything:** [What breaks if they do nothing?]
 **Why {{PRODUCT_NAME}}:** [Which capability matches their pain?]
 **Why Now:** [What external event creates urgency?]
-
-## Top 3 Outreach Hooks
-1. [Specific person + specific signal + specific angle. Ready to use.]
-2.
-3.
-
-## Recommended First Contact
-**Who:** [Name + title]
-**Channel:** LI / Email / Cold Call
-**Hook:** [One-liner]
 
 ## Sources
 - [URL or document with description]
@@ -211,8 +198,7 @@ After saving the research file:
 - [ ] Tech stack confirmed from source (not assumed)
 - [ ] At least 1 pain signal is research-confirmed with a cited source
 - [ ] FITS score calculated
-- [ ] Sales motion route hypothesis stated with reasoning
 - [ ] Output file saved with today's date in name
-- [ ] All required chain interface sections present (Company Overview, Tech Stack, Pain Signals, Leadership Contacts, Top 3 Outreach Hooks)
+- [ ] All required chain interface sections present (Company Overview, Tech Stack, Pain Signals, Leadership Contacts, The 3 Whys)
 - [ ] account-brief.md updated
 - [ ] No invented metrics — every number has a source

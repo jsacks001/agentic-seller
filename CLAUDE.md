@@ -62,7 +62,7 @@ You can start lite and add Bright Data later (~$10/month, free trial available).
 **Ideal Customer (ICP):** Enterprise companies (1000+ employees) in South Africa and Australia. Target titles: Head of Reward, Head of Remuneration, Chief HR Officer, HR Director, Head of People
 **AE / Counterpart:** N/A
 **Top Competitors:** Workday, SAP, HiBob
-**Known Customers:** RCL FOods, Rainbow (no published proof points yet)
+**Known Customers:** RCL Foods, Rainbow (no published proof points yet)
 
 ---
 

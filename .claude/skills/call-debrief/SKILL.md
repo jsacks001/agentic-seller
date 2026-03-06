@@ -13,26 +13,38 @@ user-invocable: true
 
 # Call Debrief — Alignd
 
-**⚠️ TIMING RULE:** Do this immediately after the call. The best debrief is in the first 15 minutes.
+**TIMING RULE:** Do this immediately after the call. The best debrief is in the first 15 minutes.
 Memory degrades fast. Don't wait.
 
-**⚠️ DATE RULE:** Check `currentDate`. Notes saved as `YYYY-MM-DD-{type}-notes.md`.
+**DATE RULE:** Check `currentDate`. Notes saved as `YYYY-MM-DD-{type}-notes.md`.
 
 ---
 
-## STEP 0 — Confirm Context
+## STEP 1 — Raw Details
 
 Ask if not provided:
-1. Which account + which contact(s) were on the call?
-2. Call type: cold call / intro / discovery / follow-up / AE-led
+1. Who was on the call? (names + titles)
+2. What type of call was it? (intro / follow-up / pricing / discovery / demo / AE-led)
 3. How long did it last?
-4. Do you have notes, or should I ask you questions to capture them?
-
-If no notes → run the verbal download guide in Step 2.
 
 ---
 
-## STEP 1 — Read Prior Context
+## STEP 2 — Transcript or Notes Check
+
+Ask the seller:
+
+**"Do you have a call transcript?"**
+- **Yes** → Ask them to upload/paste it. Use the transcript as source material for Step 4 questions.
+- **No** → Ask: **"Do you have notes?"**
+  - **Yes** → Ask them to upload/paste notes. Use the notes as source material for Step 4 questions.
+  - **No** → Continue to Step 3. Step 4 will run in verbal download mode.
+
+**Important:** Even when a transcript or notes are provided, still ask the Step 4 questions to the seller.
+The transcript captures what was said — the seller's interpretation captures what it meant.
+
+---
+
+## STEP 3 — Read Prior Context
 
 Before capturing notes, read what we knew BEFORE the call:
 1. `accounts/{account}/account-brief.md` → current qualification status
@@ -44,84 +56,83 @@ Compare before vs. after — that's the signal.
 
 ---
 
-## STEP 2 — Capture Notes (verbal download mode)
+## STEP 4 — Capture Notes
 
-If seller is giving notes verbally, guide them through these in order:
+Walk through each section below. If a transcript/notes were provided, reference them while asking — but still ask each question to get the seller's read.
 
-**Quick Context**
+### 4A — What Happened
+
 - "What happened — in one sentence?"
 - "Who spoke the most — them or you?"
 - "What was the energy? Engaged / polite / skeptical / rushed?"
 
-**Challenger Assessment**
-- "Did you get to teach them something new — a commercial insight they didn't know?"
-- "Did they push back on the status quo, or are they still comfortable with how things are?"
-- "Did you tailor the message to their specific world — or was it more generic?"
-- "Did you take control of next steps — or did they say 'we'll get back to you'?"
+### 4B — Raw Details (Their World)
 
-**Pain Discovery — Alignd-Specific**
-- "Did they describe how they currently manage reward cycles? (Excel, HRIS, manual?)"
-- "Did they mention governance risk, audit trail gaps, or compliance concerns?"
-- "Did they talk about visibility problems — board questions they can't answer quickly?"
-- "Did they mention policy alignment — DEI guardrails, pay philosophy, performance-to-reward?"
-- "What's their biggest frustration with the current process?"
-- "What have they tried before? What didn't work?"
+- "When do they run reward/remuneration cycles?"
+- "What platforms are they currently using? (Excel, HRIS, Workday, SAP, manual?)"
+- "How is their org structured? (centralised reward team, decentralised by BU, shared services?)"
 
-**Deal Qualification**
+### 4C — Challenges
+
+- "What challenges did they bring up?"
+- "What's this person's biggest pain?"
+- "What are their current priorities and focuses?"
+
+### 4D — Deeper Pain Understanding
+
+- "Were we able to link their challenges to governance? (structured approvals, audit trail, risk)"
+- "Were we able to link to visibility? (dashboards, board reporting, budget tracking)"
+- "Were we able to link to fair pay / policy alignment? (DEI guardrails, pay philosophy, performance-to-reward)"
+- "Did any other use cases come up beyond these three?"
+
+### 4E — Deal Qualification & Momentum
+
 - "Did anyone mention budget, cost, or cost reduction?"
 - "Who else needs to be involved in a decision like this?"
 - "Is there a timeline or upcoming deadline? (fiscal year, board review, restructure?)"
 - "Is there someone internal who's clearly the champion?"
 - "What else are they evaluating — Workday, SAP, staying with current process?"
-
-**Momentum**
 - "Did they agree to a next step? What exactly?"
 - "Was there a specific objection? How did it go?"
 - "Any quote or thing they said that stood out?"
 
----
-
-## STEP 3 — Map to Challenger Framework
+### 4F — Challenger Assessment
 
 Map every piece of information to the Challenger qualification elements.
 
 | Element | Question | Status | Evidence from Call |
 |---------|----------|--------|--------------------|
-| **Commercial Insight (Teach)** | Did we teach them something new about their reward governance risk? | ✅/⬜/🚫 | What insight landed? |
-| **Reframe** | Did we challenge their assumptions about the status quo (Excel/manual/HRIS)? | ✅/⬜/🚫 | How did they react? |
-| **Tailored Message** | Was our message mapped to their specific outcomes (governance / visibility / efficiency)? | ✅/⬜/🚫 | Which outcome resonated? |
-| **Constructive Tension** | Did we create urgency by exposing cost of inaction? | ✅/⬜/🚫 | Did they acknowledge the risk? |
-| **Economic Buyer** | Who approves budget? Were they on the call? | ✅/⬜/🚫 | Name if known |
-| **Decision Process** | What steps to get to yes? Timeline? | ✅/⬜/🚫 | Process described |
-| **Champion** | Who advocates internally? | ✅/⬜/🚫 | Name + evidence |
-| **Competition** | What else evaluating? (Workday, SAP, manual, HRIS built-in) | ✅/⬜/🚫 | Competitor(s) named |
+| **Commercial Insight (Teach)** | Did we teach them something new about their reward governance risk? | // | What insight landed? |
+| **Reframe** | Did we challenge their assumptions about the status quo (Excel/manual/HRIS)? | //// | How did they react? |
+| **Tailored Message** | Was our message mapped to their specific outcomes (governance / visibility / efficiency)? | //// | Which outcome resonated? |
+| **Constructive Tension** | Did we create urgency by exposing cost of inaction? | //// | Did they acknowledge the risk? |
+| **Economic Buyer** | Who approves budget? Were they on the call? | //// | Name if known |
+| **Decision Process** | What steps to get to yes? Timeline? | //// | Process described |
+| **Champion** | Who advocates internally? | //// | Name + evidence |
+| **Competition** | What else evaluating? (Workday, SAP, manual, HRIS built-in) | //// | Competitor(s) named |
 
 **Status key:**
-- ✅ Confirmed — we have evidence from the call
-- ⬜ Unknown — not yet discussed
-- 🚫 Negative — confirmed blocked or won't happen
+- Confirmed — we have evidence from the call
+- Unknown — not yet discussed
+- Negative — confirmed blocked or won't happen
 
-**Challenger Score:** Count ✅ out of 8. Target: advance at least 2 per call.
+**Challenger Score:** Count confirmed out of 8. Target: advance at least 2 per call.
 
----
-
-## STEP 4 — 3 Whys Assessment
+### 4G — 3 Whys Assessment
 
 | Why | Status | Evidence |
 |-----|--------|----------|
-| Why Anything (cost of status quo — what breaks if they keep using Excel/manual?) | ✅/⬜ | |
-| Why Alignd (which capability matches: governance, visibility, or policy alignment?) | ✅/⬜ | |
-| Why Now (external event: compliance deadline, board pressure, restructure, new CHRO?) | ✅/⬜ | |
+| Why Anything (cost of status quo — what breaks if they keep using Excel/manual?) | | |
+| Why Alignd (which capability matches: governance, visibility, or policy alignment?) | | |
+| Why Now (external event: compliance deadline, board pressure, restructure, new CHRO?) | | |
 
 **Analysis:**
-- All 3 ⬜ → Very early. Priority: establish pain first. What's broken in their cycle?
-- Why Anything ✅, others ⬜ → Next meeting: Why Alignd (demo tailored to their pain) and Why Now.
-- All 3 ✅ → Strong discovery. Advance to commercial discussion or technical deep-dive.
-- Why Now ⬜ → Create urgency in follow-up: find an external event (fiscal year, board review, audit, restructure, new CHRO appointment).
+- All 3 Unknown → Very early. Priority: establish pain first. What's broken in their cycle?
+- Why Anything Confirmed, others Unknown → Next meeting: Why Alignd (demo tailored to their pain) and Why Now.
+- All 3 Confirmed → Strong discovery. Advance to commercial discussion or technical deep-dive.
+- Why Now Unknown → Create urgency in follow-up: find an external event (fiscal year, board review, audit, restructure, new CHRO appointment).
 
----
-
-## STEP 5 — Alignd Pain Map
+### 4H — Alignd Pain Map
 
 Map what we learned about their specific pain to Alignd's three core outcomes:
 
@@ -135,26 +146,19 @@ Map what we learned about their specific pain to Alignd's three core outcomes:
 
 ---
 
-## STEP 6 — Draft Follow-Up Email
-
-Draft a follow-up email that:
-1. Thanks them and references a specific moment from the call (not generic)
-2. Reinforces the commercial insight (Teach) — link to the pain they acknowledged
-3. Includes 1 proof point or relevant resource matched to their pain
-4. States the agreed next step with a proposed date/time
-5. Keeps it under 200 words — no feature dumping
-
-**Tone:** Challenger — confident, consultative, not apologetic. No "just following up" or "wanted to check in."
+## STEP 5 — Not used (reserved)
 
 ---
 
-## STEP 7 — CRM Update Notes
+## STEP 6 — Add Call Debrief to HubSpot
 
-Output this block formatted for copy-paste into HubSpot (or sync via HubSpot MCP if configured):
+Via HubSpot MCP (if configured) or as a paste-ready block.
+
+Output this block formatted for HubSpot:
 
 ```
 CRM Call Log — {Date}
-Call type: {Cold Call / Intro / Discovery / Follow-up}
+Call type: {Intro / Follow-up / Pricing / Discovery / Demo}
 Duration: {X min}
 Attendees: {names + titles}
 
@@ -173,7 +177,49 @@ Alignd Pain Map: Governance [H/M/L] | Policy [H/M/L] | Visibility [H/M/L]
 Value Driver: [Make Money / Save Money / Go Fast / Be Safe]
 
 Stage Recommendation: {Research / Outreach / Engaged / Discovery / Meeting Booked / Qualified}
+
+---
+
+DRAFT FOLLOW-UP EMAIL (review before sending):
+
+[Email from Step 7 appended here]
 ```
+
+**RULE: The draft email is appended to the end of the HubSpot notes. NEVER send the email automatically.**
+
+---
+
+## STEP 7 — Draft Follow-Up Email
+
+Draft a follow-up email using this format:
+
+```
+Hi {First Name},
+
+Thanks for your time today and your thoughtful feedback and questions. Quick summary of where we landed:
+
+1. {Use case / topic discussed #1}
+2. {Use case / topic discussed #2}
+3. {Use case / topic discussed #3}
+
+Confident we can help with this and more. From here:
+
+1. {Next step #1 — e.g., sending relevant resources}
+2. {Next step #2 — e.g., scheduling next meeting with date}
+3. {Next step #3 — e.g., pricing if discussed}
+
+Anything we've missed? Let me know.
+
+{Sign off}
+```
+
+**Rules:**
+- Use cases should reflect what was actually discussed on the call — not generic feature dumps.
+- Next steps should be specific and actionable.
+- If pricing was discussed, include it. If not, don't.
+- Keep it concise. No fluff.
+- Challenger tone — confident, consultative, not apologetic.
+- **This email is appended to the HubSpot notes in Step 6. NEVER sent automatically.**
 
 ---
 
@@ -181,14 +227,14 @@ Stage Recommendation: {Research / Outreach / Engaged / Discovery / Meeting Booke
 
 **File path:**
 - Discovery/intro/follow-up call → `accounts/{account}/discovery/{YYYY-MM-DD}-{type}-notes.md`
-  (types: cold-call, intro, discovery, follow-up)
+  (types: cold-call, intro, discovery, follow-up, pricing, demo)
 - AE-led meeting → `accounts/{account}/meetings/{YYYY-MM-DD}-meeting-summary.md`
 
 ### Call Notes File Structure
 
 ```markdown
 # Call Notes — {Company} — {Date}
-**Type:** {Cold Call / Intro / Discovery / Follow-up}
+**Type:** {Intro / Follow-up / Pricing / Discovery / Demo}
 **Duration:** {X min}
 **Participants:** {Their names + titles} | Josh{, other Alignd attendees if present}
 **Energy:** {Engaged / Polite / Skeptical / Rushed}
@@ -198,18 +244,29 @@ Stage Recommendation: {Research / Outreach / Engaged / Discovery / Meeting Booke
 ## What Happened (1-paragraph summary)
 [Raw summary before analysis]
 
+## Their World
+- **Cycle timing:** [when they run reward cycles]
+- **Platforms:** [what they currently use]
+- **Org structure:** [how reward/rem team is structured]
+
+## Challenges
+[What they raised — in their words where possible]
+
+## Deeper Pain
+[How challenges connect to governance, visibility, fair pay, policy alignment]
+
 ## Key Quotes
 1. "[Direct quote showing pain or buying signal]"
 2. "[Direct quote showing objection or concern]"
 
 ## Challenger Status (Updated)
-[Full table from Step 3]
+[Full table from Step 4F]
 
 ## 3 Whys Status
-[Table from Step 4]
+[Table from Step 4G]
 
 ## Alignd Pain Map
-[Table from Step 5]
+[Table from Step 4H]
 
 ## Gaps to Fill (Next Meeting)
 1. [Missing element] → Questions to ask: [...]
@@ -219,7 +276,7 @@ Stage Recommendation: {Research / Outreach / Engaged / Discovery / Meeting Booke
 [Exactly what was agreed on the call — the literal commitment]
 
 ## Follow-Up Email
-[Draft from Step 6]
+[Draft from Step 7]
 
 ## Objections Logged
 | Type | Verbatim Quote | Stage | Response Used | Outcome |
@@ -231,12 +288,12 @@ Stage Recommendation: {Research / Outreach / Engaged / Discovery / Meeting Booke
 
 ---
 
-## STEP 9 — Create CRM Task
+## STEP 9 — Create Follow-Up Task
 
 Via HubSpot MCP (if configured) or as a paste-ready block:
 
 Create tasks for any commitments made on the call:
-- Follow-up email (if not yet sent)
+- Follow-up email (review and send the draft from Step 7)
 - Resources to send (tailored to their pain — governance / visibility / policy)
 - Next meeting to schedule
 - Research needed for next interaction
@@ -254,7 +311,7 @@ Set: account name, due date, priority, assigned to Josh.
 - [ ] At least 1 direct quote captured
 - [ ] Next step documented (or flagged as missing with recovery plan)
 - [ ] "## Objections Logged" section present in call notes file
-- [ ] Follow-up email drafted (Challenger tone, references specific call moment)
+- [ ] Follow-up email drafted and appended to HubSpot notes (NOT sent)
 - [ ] account-brief.md updated (qualification status + last interaction)
 - [ ] CRM log notes drafted (paste-ready or synced)
 - [ ] CRM task created for any commitments made on call

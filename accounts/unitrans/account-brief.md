@@ -1,5 +1,5 @@
 # Unitrans -- Account Brief
-**Last Updated:** 2026-03-05
+**Last Updated:** 2026-03-06
 
 ---
 
@@ -35,14 +35,14 @@
 
 | Element | Status | Notes |
 |---------|--------|-------|
-| Commercial Insight | 🎯 | Prepared: governance gap between payroll and reward strategy |
-| Reframe | 🎯 | Ready: "SAP payroll != total reward governance" |
-| Tailored Message | 🎯 | Mapped to practitioner pain (cycle time, manual effort, multi-country) |
-| Constructive Tension | 🎯 | R5.3B remuneration spend with no analytics |
-| Economic Buyer | ⬜ | Likely Zene Olivier or above -- confirm via Phindile |
-| Decision Process | ⬜ | Unknown -- probe in discovery |
-| Champion | 🎯 | Phindile Khumalo (inbound, warm via Dena) |
-| Competition | ⬜ | SAP in stack, Workday unlikely in Africa |
+| Commercial Insight | ⬜ | Showed platform but didn't name governance risk explicitly. Need to reframe for exec audience. |
+| Reframe | ⬜ | Phindile already dissatisfied with status quo -- didn't need convincing. Need to reframe for execs who don't see the problem. |
+| Tailored Message | ⬜ | Demo was broad. Next demo must focus on: performance-linked matrix, eligibility rules, approval workflow only. |
+| Constructive Tension | ⬜ | Did not quantify risk. Need to frame: 9 execs, 7K people, no data, no audit trail = governance crisis. |
+| Economic Buyer | ⬜ | Not on call. Phindile presenting to Unitrans execs Tuesday 2026-03-10. Names TBC. |
+| Decision Process | 🎯 | Internal meeting Tue -> exec demo -> buy-in -> budget -> implement FY27. Perf mgmt potentially sooner. |
+| Champion | 🎯 | Phindile confirmed willing. "Positive that HR exec and HR exec at CAP would be keen." Influence level unclear -- specialist role. |
+| Competition | ✅ | None. Not evaluating alternatives. Competition is status quo (Sage + Excel + manual). |
 
 ---
 
@@ -50,9 +50,9 @@
 
 | Why | Status | Notes |
 |-----|--------|-------|
-| Why Anything | 🎯 | 10-country remuneration complexity, 70% unionised, legacy HR tech |
-| Why Alignd | ⬜ | Multi-country reward visibility + governance -- demo on 2026-03-06 |
-| Why Now | 🎯 | Phindile initiated contact (inbound). Top Employer recertification, CEO people mandate, KAP fiscal year ends June |
+| Why Anything | ✅ | Confirmed. 9 execs managing 7K people with no data, no pay scales, no perf ratings, disability errors, no audit trail, process owned by payroll not HR. |
+| Why Alignd | 🎯 | Phindile said "this is exactly something that would be assisting me." But understanding not deep enough to articulate value to execs. Needs reinforcement. |
+| Why Now | 🎯 | Inbound. First reward person ever hired. Perf mgmt just started. But no hard external deadline beyond FY27 target. Push for perf mgmt this year to create urgency. |
 
 ---
 
@@ -60,14 +60,14 @@
 
 | Field | Value |
 |-------|-------|
-| Stage | Discovery -- call booked 2026-03-06 |
-| Sales Motion | Classic (may shift to Sprint if champion is strong) |
-| Value Driver | Save Money |
-| Top Pain Signal | Multi-country remuneration complexity with legacy tech |
+| Stage | Engaged -- pending internal alignment for exec demo |
+| Sales Motion | Classic (multi-stakeholder: HR + IT + Finance + Execs) |
+| Value Driver | Be Safe (governance risk) |
+| Top Pain Signal | 9 execs managing 7K people with no data, no audit trail, no pay scales |
 | Top Hook | Inbound -- Phindile saw Neil's LinkedIn post + Dena connection |
-| Champion | Phindile Khumalo (Rewards & Benefits Specialist) -- potential |
-| Next Action | Discovery call 2026-03-06 10:00 AM |
-| Last Interaction | Phindile reached out after Neil's LinkedIn post |
+| Champion | Phindile Khumalo (Rewards & Benefits Specialist) -- confirmed willing, influence TBC |
+| Next Action | Wait for Phindile post-Tuesday internal meeting (2026-03-10). Send resources to support her pitch. |
+| Last Interaction | 2026-03-06 -- Intro call + demo. Phindile positive, committed to internal meeting Tue. |
 
 ---
 

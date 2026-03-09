@@ -1,7 +1,7 @@
-# Buyer Personas — B2B Tech Seller Reference
+# Buyer Personas — Alignd Total Reward & Remuneration Software
 
 **How to use this file:**
-1. Identify which type your contact is (ITDM / Architect / Practitioner)
+1. Identify which type your contact is (Executive / Practitioner / Specialist)
 2. Read their card — what they care about, what pain to probe, likely hurdle
 3. Map to one value driver before writing or calling
 
@@ -9,17 +9,15 @@
 
 ## THE 3 BUYER TYPES
 
-All B2B tech buyers fall into one of three types. Know which one you're talking to FIRST.
-
 | Type | Who | What Drives Them |
 |------|-----|-----------------|
-| **IT Decision Makers (ITDMs)** | CTO, CIO, VP Engineering, VP IT Ops, Head of Database, Head of DevOps, Head of Security, Head of Architecture, Head of Procurement | Business outcomes, risk, cost, strategic alignment |
-| **Architects** | Enterprise Architect, Chief Architect, Head of Architecture, Solutions Architect | Platform standards, technical debt, modernization, workload portability |
-| **Practitioners** | Software Engineers, DBAs, Data Engineers, AI/ML Engineers | Developer experience, performance, ops simplicity, day-to-day tools |
+| **Executives** | CHRO, Chief People Officer, HR Director, Head of People, Head of Human Capital | Board-level governance, risk, strategic workforce decisions, cost control |
+| **Practitioners** | Head of Reward, Head of Remuneration, Head of Total Rewards, Head of Compensation & Benefits | Operational control, policy consistency, fair pay, audit trails, accurate data |
+| **Specialists** | Remuneration Manager, Rewards Specialist, Benefits Manager, Compensation Analyst | Day-to-day execution, spreadsheet pain, data accuracy, process efficiency |
 
 **For each persona, know 3 things:**
 1. What they care about (top 2-3 goals / what they're measured on)
-2. Strategic opening (the #1 pain {{PRODUCT_NAME}} is positioned to solve for them)
+2. Strategic opening (the #1 pain Alignd is positioned to solve for them)
 3. The likely hurdle (most common objection + how to handle it)
 
 ---
@@ -28,123 +26,95 @@ All B2B tech buyers fall into one of three types. Know which one you're talking 
 
 ---
 
-### CTO
+### CHRO / Chief People Officer / HR Director
 
 **What they care about:**
-- Innovation velocity — can the tech stack keep up with the product roadmap?
-- Engineering productivity — are teams shipping or managing infrastructure?
-- AI/ML readiness — is the data and tooling foundation ready for AI?
+- Governance and compliance — can we defend every pay decision to the board?
+- Total remuneration cost visibility — what are we actually spending, and where?
+- Risk reduction — equal pay exposure, benefits overpayment, policy drift across regions
+- Strategic workforce planning — using reward as a lever for retention and performance
 
 **Pain to probe:**
-- "When a new product requirement comes in, how long does it take from decision to shipping?"
-- "What percentage of your engineering time goes to infrastructure vs. product features?"
+- "When the board asks how salary increases were determined across your regions, how quickly can you produce that answer?"
+- "Do you have full visibility into your total remuneration spend across all countries — or does it take weeks to consolidate?"
+- "How confident are you that pay decisions are consistent across business units?"
 
-**Likely hurdle:** "We're already on [current system]."
-→ "The question is whether that system handles [their AI/scale use case] without adding operational overhead. What does that look like today?"
+**Likely hurdle:** "We have a process that works — HR and payroll handle it."
+→ "Most companies we speak to say the same thing — until they discover the process depends on 3 people, 12 spreadsheets, and zero audit trail. The question is whether you'd know if a policy wasn't being followed."
 
-**Lead with:** Peer company outcomes. Innovation velocity evidence. AI readiness angle.
-**Do NOT lead with:** Feature lists. ROI spreadsheets. Technical comparisons.
+**Lead with:** Governance risk. Board visibility. Cost of status quo (what breaks if nothing changes).
+**Do NOT lead with:** Features, product demo, ROI spreadsheets.
+
+**Value driver:** Be Safe (governance, compliance, risk)
+**Challenger angle:** Teach them what they can't see — the hidden risk in their current process.
 
 ---
 
-### CIO
+### Head of Reward / Head of Remuneration / Head of Total Rewards
 
 **What they care about:**
-- Total cost of ownership across the entire tech stack
-- Vendor rationalization — fewer tools, fewer contracts, fewer risks
-- Security and compliance posture across all systems
-- Enabling the business without being the bottleneck
+- Consistent reward policy execution across business units and countries
+- Fair, defensible pay decisions — pay scales, benchmarking, equity
+- Salary increase cycle management — the annual nightmare
+- Benefits administration accuracy — retirement funds, medical aid, disability
+- Audit trail — who approved what, when, and why
 
 **Pain to probe:**
-- "How many different [relevant tool category] vendors are you paying today?"
-- "Who owns the security compliance review for each of those?"
+- "How do you currently manage the salary increase cycle? How many spreadsheets are involved?"
+- "When you run increases across multiple regions, how do you ensure policy consistency?"
+- "If an employee challenged a pay decision, could you show the full trail — benchmark data, approval, policy applied?"
+- "How much time does your team spend consolidating reward data vs. actually analysing it?"
 
-**Likely hurdle:** "Not a budget priority right now."
-→ "Understood. Is that because the current setup hasn't caused an incident yet? What would a gap across one of those systems cost you?"
+**Likely hurdle:** "We've always done it in Excel — it works."
+→ "Excel works until it doesn't. The first time an increase is applied incorrectly across 500 people, or a benefit deduction error runs for 6 months unnoticed, the cost isn't the tool — it's the cleanup. How do you catch those errors today?"
 
-**Lead with:** Cost consolidation, vendor risk reduction, peer CIO outcomes.
-**Do NOT lead with:** Technical specs. Developer-focused benefits.
+**Lead with:** Operational pain. Multi-region complexity. Process vs. policy gap.
+**Do NOT lead with:** Abstract governance language. Board-level framing (they care about execution, not strategy decks).
+
+**Value driver:** Go Fast (process efficiency) or Be Safe (audit trail, accuracy)
+**Challenger angle:** Reframe — "you're not managing reward, you're managing spreadsheets."
 
 ---
 
-### VP / Director of Engineering
+### Remuneration Manager / Rewards Specialist / Benefits Manager
 
 **What they care about:**
-- Developer velocity — how fast can teams ship?
-- On-call burden — how much does infrastructure wake people up at night?
-- Recruiting/retention — are engineers excited or frustrated by the stack?
-- Scaling without re-architecting everything
+- Getting through the salary increase cycle without errors
+- Benefits reconciliation — matching what's on the system to what's actually paid
+- Data accuracy — manual entry errors, version control on spreadsheets
+- Reducing time spent on admin so they can do actual analysis
+- Not being the single point of failure when they're on leave
 
 **Pain to probe:**
-- "When you need to add a new data type or workload, how long does it take to provision?"
-- "What's your on-call story for [relevant system] incidents? How many services are involved?"
-- "Are your AI engineers blocked waiting on a different team or system?"
+- "How many hours per month do you spend reconciling benefits data manually?"
+- "What happens to the increase cycle if you're sick for a week — does anyone else know the spreadsheet?"
+- "When payroll queries a number, how long does it take you to trace back to the approval?"
+- "Have you ever found an error months after an increase was processed? How was it caught?"
 
-**Likely hurdle:** "We have [current system] and it works fine."
-→ "It works for [current use case]. How is it handling [adjacent use case]? That's usually where teams start adding a second system, and then a third."
+**Likely hurdle:** "We don't have budget for a new system."
+→ "What's the cost of the errors you're catching — and the ones you're not? Most reward teams we work with don't have a budget line until they quantify what the current process is actually costing."
 
-**Lead with:** Dev velocity stories. On-call reduction. Stack consolidation angle.
-**Do NOT lead with:** Feature details. Pricing.
+**Lead with:** Day-to-day pain. Time wasted. Error stories. "You're doing this alone in a spreadsheet."
+**Do NOT lead with:** Strategic language. Board governance. They want relief, not a vision.
+
+**Value driver:** Go Fast (time savings, efficiency)
+**Challenger angle:** Make the invisible cost visible — quantify the hours and the risk.
 
 ---
 
-### Enterprise Architect / Head of Architecture
+## MULTI-REGION PAIN MULTIPLIER
 
-**What they care about:**
-- Platform standards — consistency across the enterprise
-- Workload portability — can we move this to any cloud?
-- Long-term technical debt — are we building on a foundation that lasts?
-- Governance, security, and compliance baked into the platform, not bolted on
+For companies operating across multiple countries, every persona pain is amplified:
 
-**Pain to probe:**
-- "If your current data infrastructure stays unchanged for a year, what becomes more complex or riskier?"
-- "How much 'tool sprawl' happens because the provisioning process is too slow for dev teams?"
-- "If you could simplify one part of your tech stack, where would you start?"
+| Single-country pain | Multi-region version |
+|---------------------|---------------------|
+| Salary increases in Excel | Salary increases in Excel × 4 countries, 4 currencies, 4 sets of legislation |
+| Benefits reconciliation | Different retirement fund rules, medical schemes, and tax treatments per country |
+| Policy consistency | "Same policy" applied differently in every region — no way to verify |
+| Audit trail | Approvals scattered across email, WhatsApp, and local HR teams |
+| Board reporting | Consolidating total reward spend across entities takes weeks, not minutes |
 
-**Likely hurdle:** "We've standardized on [existing platform]."
-→ "Standardization on one system usually creates pressure when new workloads (search, AI, time-series) need to be added. Is that creating any friction today?"
-
-**Use messaging architecture (3-part):**
-1. **Insight:** "Most companies in your position struggle with fragmented data infrastructure that slows teams and inflates operational overhead."
-2. **Counter-intuitive truth:** "The standard fix is to add specialized tools for each workload. But each one adds sync pipelines, security gaps, and vendor contracts."
-3. **Value prop:** "{{PRODUCT_NAME}} consolidates that — one platform, lower TCO, no schema migrations."
-
----
-
-### Head of Database / DBA
-
-**What they care about:**
-- Operational simplicity — fewer late-night incidents
-- Managed service eliminating manual ops (patching, backups, failover)
-- Migration risk — "don't break what works"
-- Security compliance coverage
-
-**Pain to probe:**
-- "How many hours per week goes to operational tasks vs. query optimization and architecture work?"
-- "What's the recovery process if [their primary system] has a failover?"
-
-**Likely hurdle:** "We have DBAs who know the current system."
-→ "That expertise stays valuable — managed service just removes the 3am alerts and gives your team time for higher-value work."
-
-**Lead with:** Ops simplicity. Managed service value. Migration path (not migration risk).
-
----
-
-### AI / ML Engineer
-
-**What they care about:**
-- Eliminating data sync overhead between operational data and AI pipelines
-- Fast iteration — no DevOps bottlenecks on the AI stack
-- Production-ready AI infrastructure that scales without re-architecting
-- Keeping the embedding/vector layer close to the operational data
-
-**Pain to probe:**
-- "How are you managing the sync between your operational data and your AI/vector layer?"
-- "When you embed new data, how long before it's queryable in production?"
-- "Who owns the bill for the separate AI data infrastructure?"
-
-**Lead with:** Data colocation. Elimination of sync pipelines. AI-native architecture stories.
-**Do NOT lead with:** Traditional database benefits. Business ROI language.
+**Use this in outreach:** Multi-region companies are higher pain, higher urgency. Always reference the complexity multiplier.
 
 ---
 
@@ -152,11 +122,11 @@ All B2B tech buyers fall into one of three types. Know which one you're talking 
 
 | Play | Primary Target | Secondary Target | Opening hook |
 |------|---------------|-----------------|--------------|
-| Cost consolidation | CIO, VP IT Ops | Head of Architecture | Vendor sprawl → hidden TCO |
-| Dev velocity / AI build | VP Engineering, AI/ML Engineer | CTO | Stack fragmentation → slow iteration |
-| Ops simplicity | Head of Database | VP IT Ops | Manual ops → team burn |
-| Platform standardization | Head of Architecture | CTO | Tech debt → portability risk |
-| Tool replacement | VP Engineering, Head of DB | CTO | Specific tool pain → consolidation |
+| Governance & compliance | CHRO, HR Director | Head of Reward | "Can you defend every pay decision to the board?" |
+| Salary increase chaos | Head of Reward, Rem Manager | CHRO | "X countries, X spreadsheets, zero audit trail" |
+| Benefits errors | Benefits Manager, Rewards Specialist | Head of Reward | "When was the last time you found an overpayment?" |
+| Multi-region complexity | Head of Reward | CHRO, Head of People | "Same policy, 4 countries — how do you ensure consistency?" |
+| Cost visibility | CHRO, CFO | Head of Reward | "What's your total remuneration spend? How long to answer?" |
 
 ---
 
@@ -164,8 +134,6 @@ All B2B tech buyers fall into one of three types. Know which one you're talking 
 
 | Persona | LinkedIn Connection | Email | InMail |
 |---------|--------------------|----|--------|
-| CxO / CIO / CTO | ≤200 chars — exec-brief | ≤200 words — lead with business outcome | ≤300 words |
-| VP Engineering / Director | ≤250 chars | ≤250 words — lead with team impact | ≤400 words |
-| Architect / Tech Lead | ≤300 chars | ≤300 words — lead with technical problem | ≤400 words |
-| DBA / Data Engineer | ≤300 chars | ≤300 words — lead with ops pain | ≤400 words |
-| AI / ML Engineer | ≤300 chars | ≤300 words — lead with specific technical problem | ≤400 words |
+| CHRO / HR Director / Head of People | ≤200 chars — exec-brief | ≤200 words — lead with governance risk | ≤300 words |
+| Head of Reward / Head of Remuneration | ≤250 chars | ≤250 words — lead with operational pain | ≤400 words |
+| Rem Manager / Rewards Specialist / Benefits Manager | ≤300 chars | ≤300 words — lead with day-to-day pain | ≤400 words |

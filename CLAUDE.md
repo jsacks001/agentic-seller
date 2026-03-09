@@ -284,11 +284,9 @@ Full list: `.claude/skills/write-outreach/references/banned-phrases.md`
 
 | Persona | Lead with | Avoid |
 |---------|-----------|-------|
-| CxO / VP | Revenue impact, risk reduction, competitive edge, ROI | Technical specs |
-| VP Eng / Director | Dev velocity, reliability, ops burden, scale | Vendor buzzwords |
-| Architect / Tech Lead | Schema flexibility, query performance, consolidation | Vague "better" |
-| DBA / Data Engineer | Ops simplicity, managed service, automation | Business jargon |
-| AI / ML Engineer | Vector search, RAG, embedding pipeline, AI-native architecture | Outdated framing |
+| CHRO / HR Director / Head of People | Governance risk, board visibility, cost of status quo, compliance | Features, product demo, ROI spreadsheets |
+| Head of Reward / Head of Remuneration | Operational pain, multi-region complexity, policy vs process gap, audit trail | Abstract governance language, board-level framing |
+| Rem Manager / Rewards Specialist / Benefits Manager | Day-to-day pain, time wasted, error stories, spreadsheet chaos | Strategic language, board governance, vision decks |
 
 Full guide: `.claude/skills/write-outreach/references/buyer-personas.md`
 

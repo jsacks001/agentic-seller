@@ -154,29 +154,42 @@ Map what we learned about their specific pain to Alignd's three core outcomes:
 
 Via HubSpot MCP (if configured) or as a paste-ready block.
 
+**Association rule:** Always associate the note with the company, contact(s), AND deal. Search HubSpot for the deal before creating the note. If no deal exists, flag it and ask Josh whether to create one.
+
 Output this block formatted for HubSpot:
 
 ```
-CRM Call Log — {Date}
-Call type: {Intro / Follow-up / Pricing / Discovery / Demo}
-Duration: {X min}
-Attendees: {names + titles}
+## Call Overview — {Date}
+- Type: {Intro / Follow-up / Pricing / Discovery / Demo}
+- Participants: {external names + titles only}
+- Length: {X min}
 
-Summary:
-[2-3 sentences: what happened, key finding, next step]
+## Summary
+[2-3 sentences: what happened, key finding, outcome]
 
-Challenger Updates:
-- Commercial Insight: [what we taught / what landed]
-- Pain Identified: [governance / visibility / policy — in their words]
-- Economic Buyer: [identified as: ... / not yet identified]
-- Champion: [identified as: ... / not yet identified]
-- Competition: [Workday / SAP / manual / none mentioned]
-- Next Step: [what was agreed]
+## Core Quotes
+[Prospect quotes ONLY — things they said that relate to: governance, fair pay, HR policy vs process, maintaining top talent, remuneration complexity, or similar Alignd use cases. Direct quotes in quotation marks, attributed by name.]
 
-Alignd Pain Map: Governance [H/M/L] | Policy [H/M/L] | Visibility [H/M/L]
-Value Driver: [Make Money / Save Money / Go Fast / Be Safe]
+1. "{quote}" — {Name}
+2. "{quote}" — {Name}
 
-Stage Recommendation: {Research / Outreach / Engaged / Discovery / Meeting Booked / Qualified}
+## Raw Data
+- Payroll System: {system or unknown}
+- Performance Management System: {system or unknown}
+- FY End: {month or unknown}
+- # of Employees: {number or unknown}
+- Salary Increase Effective Date: {date/month or unknown}
+- LTI: {yes/no/details or unknown}
+
+## Why Map
+- Why are they buying? [what's broken — cost of status quo]
+- Why Alignd? [which capability matches their pain]
+- Why Now? [external event creating urgency — or unknown]
+
+## Next Steps
+- Key personas they mentioned to join: {names + titles, or none mentioned}
+- Next steps: {what was agreed}
+- Pricing discussed? {Yes — details / No}
 
 ---
 
